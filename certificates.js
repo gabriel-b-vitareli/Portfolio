@@ -49,6 +49,16 @@ const CERTIFICATES = [
         image: "images/senai-etica-na-ia.jpg",
         credentialUrl: "https://www.sp.senai.br/consulta-certificado?qrcode=00054/8348411",
     },
+    {
+        title: "Capacidades e Limitações da Inteligência Artificial",
+        issuer: "Anthropic",
+        date: "Julho 2026",
+        category: "IA Generativa",
+        description: "Certificação que comprova a conclusão do curso 'Capacidades e Limitações da IA', que aborda como uma IA generativa funciona e é desenvolvida, incluindo suas capacidades elimitações.",
+        skills: ["Understanding Generative AI", "Capabilities of Generative AI", "Limitations of Generative AI", "Responsible Use of Generative AI"],
+        image: "images/capacidades-limitacoes-ia.jpg",
+        credentialUrl: "https://verify.skilljar.com/c/qv7k9vtnmsxn",
+    },
 ];
 
 /* ──────────────────────────────────────────────
