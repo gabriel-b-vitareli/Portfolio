@@ -59,6 +59,16 @@ const CERTIFICATES = [
         image: "images/capacidades-limitacoes-ia.jpg",
         credentialUrl: "https://verify.skilljar.com/c/qv7k9vtnmsxn",
     },
+    {
+        title: "Python Essentials 1",
+        issuer: "Cisco",
+        date: "Julho 2026",
+        category: "Python",
+        description: "Certificação que comprova a conclusão do curso 'Python Essentials 1', que aborda os fundamentos da linguagem Python e suas aplicações práticas.",
+        skills: ["Algorithms","Analytical Skills","Best Practices", "Computer Programming","Procedural Skills","Python","Scripting"],
+        image: "images/python1.jpg",
+        credentialUrl: "https://www.credly.com/badges/6356c782-b64d-4a15-8b4b-2d9a3ac7c8f0/public_url",
+    },
 ];
 
 /* ──────────────────────────────────────────────
@@ -76,4 +86,5 @@ const CATEGORY_COLORS = {
     "Segurança":            { bg: "rgba(168, 85, 247, 0.10)", border: "rgba(168, 85, 247, 0.20)", text: "#c084fc" },
     "Data Science":         { bg: "rgba(34, 211, 238, 0.10)", border: "rgba(34, 211, 238, 0.20)", text: "#22d3ee" },
     "Design":               { bg: "rgba(236, 72, 153, 0.10)", border: "rgba(236, 72, 153, 0.20)", text: "#f472b6" },
+    "Python":               { bg: "rgba(255, 193, 7, 0.10)", border: "rgba(255, 193, 7, 0.20)", text: "#ffc107" },
 };
